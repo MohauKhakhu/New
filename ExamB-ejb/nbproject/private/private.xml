@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/LogonMDB.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/UserBeanLocal.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/UserBean.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/Person.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/Answer.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/Contact.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/QuestionBean.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/MarkingBeanService.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/MarkingBean.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/Question.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/PossibleAnswers.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/entities/User.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/QuestionBeanLocal.java</file>
+            <file>file:/C:/Users/trant/Documents/NetBeansProjects/New%20Folder/ExamB/ExamB-ejb/src/java/za/ac/tut/sessions/ResultsSubscriberMDB.java</file>
+        </group>
+    </open-files>
+</project-private>
